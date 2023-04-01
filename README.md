@@ -1,2 +1,2 @@
 # FuNGS
-Contains code and intermediate data for the analysis of nanobody repertoires from the alpaca named "Funny".
+Please visit https://github.com/MurrellGroup/NanobodyMiner for an improved, more usable, collection of code for mining binding nanobodies from phage display data.
